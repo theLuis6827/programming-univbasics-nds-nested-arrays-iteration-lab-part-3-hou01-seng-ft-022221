@@ -11,6 +11,7 @@ def join_nested_strings(src)
     end
     row_index += 1
   end
+  joined_strings
 
 
   # src will be an Array of Arrays of Strings and Integers
